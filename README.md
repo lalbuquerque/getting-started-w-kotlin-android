@@ -1,3 +1,1 @@
-# Getting Started with Kotlin and Android
-
 ![Alt text](http://i.imgur.com/iBtHGiL.png?1 "")
