@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">getting-started</string>
+    <string name="text_click_on_me">Click on me</string>
+    <string name="placeholder_name">Lucas</string>
+</resources>
